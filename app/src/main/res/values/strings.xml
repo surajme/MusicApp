@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">MusicWiki</string>
+    <string name="base_url">http://ws.audioscrobbler.com/</string>
+    <string name="api_key">1ed2fc846d1943c7d2b39a2d41150646</string>
+    <string name="json">json</string>
+    <string name="albums">Albums</string>
+    <string name="artists">Artists</string>
+    <string name="tracks">Tracks</string>
+    <string name="tag_getTopTags">tag.getTopTags</string>
+    <string name="album_getinfo">album.getinfo</string>
+    <string name="artist_getinfo">artist.getinfo</string>
+    <string name="artist_gettoptracks">artist.gettoptracks</string>
+    <string name="artist_gettopalbums">artist.gettopalbums</string>
+    <string name="tag_getinfo">tag.getinfo</string>
+    <string name="tag_gettopalbums">tag.gettopalbums</string>
+    <string name="tag_gettopartists">tag.gettopartists</string>
+    <string name="tag_gettoptracks">tag.gettoptracks</string>
+</resources>
