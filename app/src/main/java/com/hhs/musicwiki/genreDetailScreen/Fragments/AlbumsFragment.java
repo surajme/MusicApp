@@ -87,16 +87,4 @@ public class AlbumsFragment extends Fragment {
             }
         });
     }
-
-//    @Override
-//    public void onResume() {
-//        super.onResume();
-//        mShimmerViewContainer.startShimmerAnimation();
-//    }
-//
-//    @Override
-//    public void onPause() {
-//        mShimmerViewContainer.stopShimmerAnimation();
-//        super.onPause();
-//    }
 }

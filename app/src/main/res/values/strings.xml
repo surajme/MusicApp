@@ -1,7 +1,7 @@
 <resources>
     <string name="app_name">MusicWiki</string>
     <string name="base_url">http://ws.audioscrobbler.com/</string>
-    <string name="api_key">1ed2fc846d1943c7d2b39a2d41150646</string>
+    <string name="api_key">ba3edcc00f3c7762caf4c8053cd7e6e8</string>
     <string name="json">json</string>
     <string name="albums">Albums</string>
     <string name="artists">Artists</string>
