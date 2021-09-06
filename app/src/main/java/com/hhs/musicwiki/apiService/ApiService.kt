@@ -1,13 +1,13 @@
 package com.hhs.musicwiki.apiService
 
 import com.hhs.musicwiki.albumDetailScreen.dataModels.Album
-import com.hhs.musicwiki.artistDetailScreen.DataModels.Artist
-import com.hhs.musicwiki.artistDetailScreen.DataModels.ArtistTopAlbumModels.ArtistTopAlbums
-import com.hhs.musicwiki.artistDetailScreen.DataModels.ArtistTopTracksModels.ArtistTopTracks
-import com.hhs.musicwiki.genreDetailScreen.DataModels.AlbumModel.AllAlbums
-import com.hhs.musicwiki.genreDetailScreen.DataModels.ArtistModel.AllArtists
-import com.hhs.musicwiki.genreDetailScreen.DataModels.TrackModel.AllTracks
-import com.hhs.musicwiki.genreDetailScreen.Models.GenreInfo
+import com.hhs.musicwiki.artistDetailScreen.dataModels.Artist
+import com.hhs.musicwiki.artistDetailScreen.dataModels.ArtistTopAlbumModels.ArtistTopAlbums
+import com.hhs.musicwiki.artistDetailScreen.dataModels.ArtistTopTracksModels.ArtistTopTracks
+import com.hhs.musicwiki.genreDetailScreen.dataModels.AlbumModel.AllAlbums
+import com.hhs.musicwiki.genreDetailScreen.dataModels.ArtistModel.AllArtists
+import com.hhs.musicwiki.genreDetailScreen.dataModels.TrackModel.AllTracks
+import com.hhs.musicwiki.genreDetailScreen.models.GenreInfo
 import com.hhs.musicwiki.homeScreen.Models.AllGenres
 import retrofit2.Call
 import retrofit2.http.GET

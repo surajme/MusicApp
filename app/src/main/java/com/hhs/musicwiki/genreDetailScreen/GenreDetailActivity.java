@@ -7,10 +7,10 @@ import android.widget.TextView;
 import androidx.annotation.Nullable;
 
 import com.google.android.material.tabs.TabLayout;
-import com.hhs.musicwiki.genreDetailScreen.DataModels.AlbumModel.Album;
-import com.hhs.musicwiki.genreDetailScreen.DataModels.ArtistModel.Artist;
-import com.hhs.musicwiki.genreDetailScreen.FragmentAdapters.FragmentAdapter;
-import com.hhs.musicwiki.genreDetailScreen.Models.GenreInfo;
+import com.hhs.musicwiki.genreDetailScreen.dataModels.AlbumModel.Album;
+import com.hhs.musicwiki.genreDetailScreen.dataModels.ArtistModel.Artist;
+import com.hhs.musicwiki.genreDetailScreen.fragmentAdapters.FragmentAdapter;
+import com.hhs.musicwiki.genreDetailScreen.models.GenreInfo;
 import com.hhs.musicwiki.apiService.ApiService;
 import com.hhs.musicwiki.R;
 

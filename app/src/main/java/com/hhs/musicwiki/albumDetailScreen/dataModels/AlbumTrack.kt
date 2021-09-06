@@ -1,9 +1,9 @@
 package com.hhs.musicwiki.albumDetailScreen.dataModels
 
 import com.google.gson.annotations.SerializedName
-import com.hhs.musicwiki.genreDetailScreen.DataModels.ArtistInfo
-import com.hhs.musicwiki.genreDetailScreen.DataModels.RankAttr
-import com.hhs.musicwiki.genreDetailScreen.DataModels.TrackModel.Streamable
+import com.hhs.musicwiki.genreDetailScreen.dataModels.ArtistInfo
+import com.hhs.musicwiki.genreDetailScreen.dataModels.RankAttr
+import com.hhs.musicwiki.genreDetailScreen.dataModels.TrackModel.Streamable
 
 class AlbumTrack {
     private val name: String? = null

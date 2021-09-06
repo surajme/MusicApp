@@ -98,9 +98,8 @@ public class MainActivity extends AppCompatActivity {
         for (int i = 0; i < count; i++) {
             MaterialButton materialButton = new MaterialButton(MainActivity.this, null, R.attr.chipStyle);
             materialButton.setText(genreList.get(i));
-            materialButton.setBackgroundColor(getResources().getColor(R.color.colorPrimaryDark));
-            materialButton.setTextColor(getResources().getColor(R.color.colorAccent));
-            materialButton.setCornerRadius(20);
+            materialButton.setBackgroundResource(R.drawable.layout_stroke_black);
+            materialButton.setTextColor(getResources().getColor(R.color.black));
             materialButton.setPadding(16, 18,16,18);
             LinearLayout.LayoutParams params = new LinearLayout.LayoutParams(
                     LinearLayout.LayoutParams.WRAP_CONTENT,
