@@ -1,7 +1,7 @@
 package com.hhs.musicwiki.albumDetailScreen.dataModels
 
 import com.google.gson.annotations.SerializedName
-import com.hhs.musicwiki.genreDetailScreen.DataModels.ImageInfo
+import com.hhs.musicwiki.genreDetailScreen.dataModels.ImageInfo
 import java.util.*
 
 class AlbumInfo {
