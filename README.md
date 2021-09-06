@@ -3,19 +3,22 @@ An assignment for GreedyGames.
 Time spent: 2 days
 
 **Required api calls:**
-tag.getTopTags
-tag.getInfo
-tag.getTopAlbums
-tag.getTopArtists
-tag.getTopTracks
-album.getInfo
-album.getTopTags
-artist.getInfo
-artist.getTopTags
-artist.getTopAlbums
+
+
+tag.getTopTags,
+tag.getInfo,
+tag.getTopAlbums,
+tag.getTopArtists,
+tag.getTopTracks,
+album.getInfo,
+album.getTopTags,
+artist.getInfo,
+artist.getTopTags,
+artist.getTopAlbums,
 artist.getTopTracks
 
 Dependencies:
+
 //retrofit
 implementation 'com.squareup.retrofit2:retrofit:2.9.0'
 
